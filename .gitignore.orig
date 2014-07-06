@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 learningC++.xcodeproj/xcuserdata/
+
+*.out
+=======
 # Compiled Object files
 *.slo
 *.lo
@@ -20,3 +24,4 @@ learningC++.xcodeproj/xcuserdata/
 *.exe
 *.out
 *.app
+>>>>>>> 695298d9866357076e55da440e141a60c6e00854
