@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8C33F1EE-BEBB-4ACD-87D8-1F541548E166</string>
+	<key>IDESourceControlProjectName</key>
+	<string>learningC++</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E00F10D0-A113-4CB3-B643-E779865E9007</key>
+		<string>https://github.com/lorixx/ironman.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>learningC++.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E00F10D0-A113-4CB3-B643-E779865E9007</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lorixx/ironman.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E00F10D0-A113-4CB3-B643-E779865E9007</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E00F10D0-A113-4CB3-B643-E779865E9007</string>
+			<key>IDESourceControlWCCName</key>
+			<string>learningC++</string>
+		</dict>
+	</array>
+</dict>
+</plist>
